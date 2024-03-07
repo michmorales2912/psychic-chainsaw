@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+
+  .aboutme-image {
+    width: 500px; 
+    height: 500px; 
+    margin: 0 auto;
+    display: block;
+
+  }
+
+  h2 {
+    color: #333;
+    text-align: center;
+  }
+
+
+  h1 {
+    color: #581845;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
